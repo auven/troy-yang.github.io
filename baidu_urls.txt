@@ -1,0 +1,1 @@
+http://troyyang.com/2017/06/25/Javascript_Prototype_Inherience_Understanding/
